@@ -9,6 +9,29 @@ $fa-font-path: "../webfonts" !default;
 
 @import '~bootstrap/scss/bootstrap';
 
-h1 {
-    color: $text-color;
+footer div{
+    text-align: center;
+}
+
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.card-body{
+    position: relative;
+    height: 100%;
+}
+
+.db-btn{
+    padding: 6px 12px;
+    background-color: rgba(0, 0, 0, 0.836);
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
+a.db-btn{
+    text-decoration: none;
+    color: white;
 }

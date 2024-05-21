@@ -3,8 +3,9 @@
 @section('title', 'Home')
 
 @section('content')
-<main>
+<main class="container">
     <h1>Home page</h1>
+    <p>Ho stilizzato solo i movies :)</p>
 
 
 </main>

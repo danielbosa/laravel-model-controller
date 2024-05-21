@@ -1,1 +1,3 @@
-<div>footer</div>
+<footer>
+    <div>Made with &hearts;</div>
+</footer>
